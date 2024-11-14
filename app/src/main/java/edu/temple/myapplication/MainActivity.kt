@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
                         startButton.text = "Pause"
                     } else {
                         binder.pause()
-                        startButton.text = "Resume"
+                        startButton.text = "Start"
                     }
                 }
             }
